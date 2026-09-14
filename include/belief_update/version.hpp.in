@@ -1,0 +1,9 @@
+#pragma once
+
+#include <string_view>
+
+namespace belief_update {
+
+inline constexpr std::string_view version{"@PROJECT_VERSION@"};
+
+}  // namespace belief_update
