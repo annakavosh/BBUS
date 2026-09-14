@@ -1,0 +1,15 @@
+/build/
+/dist/
+/*.egg-info/
+/.cache/
+/.venv/
+
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+*.dll
+
+.DS_Store
+.idea/
+.vscode/
