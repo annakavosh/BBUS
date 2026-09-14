@@ -1,4 +1,4 @@
-# belief-update
+# BBUS - Bayesian Belief Update System
 
 A deterministic, auditable, and stress-testable Bayesian belief-update library
 for real-time systems.
